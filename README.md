@@ -1,15 +1,17 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=OI,+MEU+NOME+É+ISRAEL+ALVES;EU+TENHO+27+ANOS;SOU+NORDESTINO,+SERGIPANO,SEJA+BEM+VINDO!+:%29)](https://git.io/typing-svg) 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=TÉCNICO+DE+TECNOLOGIA+DA+INFORMAÇÃO;ESTUDO+ANÁLISE+E+DESENVOLVIMENTO+DE+SISTEMAS!+:%29)](https://git.io/typing-svg)
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Khaldewey&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Israel Alves  github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khaldewey&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
+ # Olá, Mundo ! Meu nome é Israel :smile:
+<div> 
+<img height="180em"  src="https://github-readme-stats.vercel.app/api?username=Khaldewey&show_icons=true&theme=transparent"/> 
+</div> 
+<img width="430"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khaldewey&langs_count=8)](https://github.com/Khaldewey/github-readme-stats"/>
 
 ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Khaldewey&theme=gotham)
+          
+
+
+ 
+
+
+
 
 
 
