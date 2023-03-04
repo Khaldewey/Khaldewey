@@ -1,4 +1,4 @@
- # Olá, Mundo ! Meu nome é Israel :smile:
+ # Hello World ! My name's Israel :smile:
 <div> 
 <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=Khaldewey&show_icons=true&theme=transparent"/> 
 </div> 
