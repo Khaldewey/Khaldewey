@@ -4,9 +4,6 @@
 
 # 🚀 Olá, eu sou Israel Alves - Programador de Sistemas de Computação 
 
-## Habilidades Tecnológicas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khaldewey&langs_count=2)
-
 💻 Aqui estão algumas das tecnologias com as quais tenho experiência profissional:
 
 -  Linguagens de Programação: 
@@ -36,21 +33,4 @@
 ## Vamos Criar Algo Incrível! 💫
 
 💬 Quer colaborar em um projeto criativo e inovador? Estou sempre aberto a novas ideias e parcerias. Entre em contato comigo para discutirmos como podemos criar algo verdadeiramente extraordinário juntos. ✉️
-
-
-![DiasEllen26 GitHub stats](https://github-readme-stats.vercel.app/api?username=Khaldewey\&rank_icon=percentile)
-
-
-
-          
-
-
- 
-
-
-
-
-
-
-
 
