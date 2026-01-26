@@ -20,7 +20,12 @@
     [![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,visualstudio,eclipse,postman)](https://skillicons.dev)
 - Desenvolvimento Web:
 
-    [![My Skills](https://skillicons.dev/icons?i=html,css,javascript)](https://skillicons.dev) 
+    [![My Skills](https://skillicons.dev/icons?i=html,css,javascript)](https://skillicons.dev)
+
+## 🦾Treinamento Diário
+
+1. [Java](https://github.com/Khaldewey/java-daily-training): Repositório onde centralizo tarefas diárias da linguagem Java da plataforma HackerRank.
+
 ## Projetos Criativos
 
 🎨 Aqui estão alguns dos meus projetos mais criativos e inovadores:
