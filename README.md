@@ -8,7 +8,7 @@
 
 -  Linguagens de Programação: 
 
-    [![My Skills](https://skillicons.dev/icons?i=java,ruby)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=java,ruby,php)](https://skillicons.dev)
 - Frameworks e Bibliotecas: 
 
     [![My Skills](https://skillicons.dev/icons?i=spring,rails)](https://skillicons.dev)
