@@ -13,7 +13,6 @@
 
     [![My Skills](https://skillicons.dev/icons?i=spring,rails)](https://skillicons.dev)
 - Dados: 
-
     [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongo)](https://skillicons.dev)
 - Ferramentas e Tecnologias: 
 
@@ -22,20 +21,4 @@
 
     [![My Skills](https://skillicons.dev/icons?i=html,css,javascript)](https://skillicons.dev)
 
-## 🦾Treinamento Diário
-
-1. [Java](https://github.com/Khaldewey/java-daily-training): Repositório onde centralizo tarefas diárias da linguagem Java da plataforma HackerRank.
-
-## Projetos Criativos
-
-🎨 Aqui estão alguns dos meus projetos mais criativos e inovadores:
-
-1. [Rifa Online](https://github.com/Khaldewey/cash-premium): Sistema para venda de rifas online com pagamento pix integrado e algoritmo que seleciona números aleatoriamente de acordo com faixa de números definida e CRM integrado para gerenciamento de vendas, clientes e imagens.
-2. [Pagamento Pix](https://github.com/Khaldewey/spring-boot-payment-pix-mercado-pago): Sistema API Restful de pagamento pix do mercado pago com interface swagger para fazer requisições.
-3. [CRM](https://github.com/systemsonsolutions/spring-app-api): Sistema API Restful CRM para gerenciamento de clientes, vendas e imagens.
-4. [Easy XML](https://github.com/Khaldewey/ruby_on_rails_easy_xml): Sistema de processamento de XML individual ou em lote e respectiva organização, geração de relatórios e gerencimamento.
-
-## Vamos Criar Algo Incrível! 💫
-
-💬 Quer colaborar em um projeto criativo e inovador? Estou sempre aberto a novas ideias e parcerias. Entre em contato comigo para discutirmos como podemos criar algo verdadeiramente extraordinário juntos. ✉️
 
