@@ -13,7 +13,8 @@
 
     [![My Skills](https://skillicons.dev/icons?i=spring,rails)](https://skillicons.dev)
 - Dados: 
-    [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongo)](https://skillicons.dev)
+
+  [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongo)](https://skillicons.dev)
 - Ferramentas e Tecnologias: 
 
     [![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,visualstudio,eclipse,postman)](https://skillicons.dev)
